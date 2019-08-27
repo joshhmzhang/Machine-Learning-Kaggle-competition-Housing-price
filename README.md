@@ -2,7 +2,7 @@
 
 This projrct is for Kaggle competition. 
 
-Exploratoty data analysis, data impution for missing values, Random foredt, XGBoost models.
+Exploratory data analysis, data imputation for missing values, Random forest, XGBoost models.
 
 My project starts from the simple basic models with the simple conditions(only considering the non null features with random forest), then gradually improve the model by: adding categorical features, imputering values, and at last applied XGBoost model.
 
