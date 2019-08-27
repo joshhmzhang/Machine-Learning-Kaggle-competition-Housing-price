@@ -1,4 +1,4 @@
-# Maching-Learning-Kaggle-competition-Housing-price
+# Machine-Learning-Kaggle-competition-Housing-price
 
 This projrct is for Kaggle competition. 
 
